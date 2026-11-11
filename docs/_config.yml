@@ -1,0 +1,9 @@
+title: Chatbot PDF Reader
+description: A lightweight, offline Question Answering system for PDF content
+show_downloads: true
+theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/Ujjwal200706/chatbot_pdf_reader
+  owner_url: https://github.com/Ujjwal200706
+  owner_name: Ujjwal200706
