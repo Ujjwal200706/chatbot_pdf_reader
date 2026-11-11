@@ -4,5 +4,5 @@ langchain-huggingface
 faiss-cpu
 transformers
 sentence-transformers
-PyPDF2
+PyPDF
 streamlit>=1.28.0
